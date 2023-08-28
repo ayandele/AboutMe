@@ -1,0 +1,34 @@
+/* Project styling */
+.project {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+}
+
+.project img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.project h3 {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+.project p {
+    margin-top: 10px;
+}
+
+.project a {
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.project a:hover {
+    text-decoration: underline;
+}
