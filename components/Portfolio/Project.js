@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './Project.css';   // Import the CSS for the Project component
 const Project = ({ title, description, liveLink, repoLink, image }) => {
 return (
     <div className="project">
