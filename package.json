@@ -4,6 +4,7 @@
   "description": "A project portfolio created using REACT",
   "main": "index.js",
   "scripts": {
+    "start": "react-scripts start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ayandele/AboutMe/issues"
   },
-  "homepage": "https://github.com/ayandele/AboutMe#readme"
+  "homepage": "https://github.com/ayandele/AboutMe#readme",
+  "devDependencies": {
+    "react-scripts": "^2.1.3"
+  }
 }
